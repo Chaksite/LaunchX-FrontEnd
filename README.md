@@ -1,2 +1,6 @@
 # LaunchX-FrontEnd
-Practicas de FrontEnd - LaunchX
+**Practicas FrontEnd**
+
+**Modulo 1.**
+- Practica 1
+
