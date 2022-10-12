@@ -41,3 +41,6 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 
 **Modelo de Negocio.**
 ![Abogabot-DMN](./images/Abogabot-DMN.jpg)
+
+## **3. Buyer Persona.**
+**En Construccion**
