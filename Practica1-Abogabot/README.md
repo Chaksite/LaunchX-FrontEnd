@@ -43,4 +43,4 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 ![Abogabot-DMN](./images/Abogabot-DMN.jpg)
 
 ## **3. Buyer Persona.**
-**En Construccion**
+![Abogabot-Buyer](./images/Abogabot-Buyer.png)
