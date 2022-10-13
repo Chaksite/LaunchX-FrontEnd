@@ -46,4 +46,4 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 ![Abogabot-Buyer](./images/Abogabot-Buyer.jpg)
 
 ## **4. Publico Objetivo.**
-![Abogabot-Objetivo](./images/Abogabot-Objetivo.jpg)
+![Abogabot-Objetivo](./images/Abogabot-Obj.jpg)
