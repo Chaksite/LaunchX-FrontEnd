@@ -37,7 +37,7 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 
 ## **2. Diagramas.**
 **Mapa de Sitio.**
-![Abogabot-MapaSitio](./images/Abogabot-MapaSitio.jpg)
+![Abogabot-Mapa](./images/Abogabot-Mapa.jpg)
 
 **Modelo de Negocio.**
 ![Abogabot-DMN](./images/Abogabot-DMN.jpg)
