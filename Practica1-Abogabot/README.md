@@ -40,7 +40,7 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 ![Abogabot-MSitio](./images/Abogabot-MSitio.jpg)
 
 **Modelo de Negocio.**
-![Abogabot-DMN](./images/Abogabot-DMN.jpg)
+![Abogabot-Modelo](./images/Abogabot-Modelo.jpg)
 
 ## **3. Buyer Persona.**
 ![Abogabot-Buyer](./images/Abogabot-Buyer.jpg)
