@@ -47,3 +47,5 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 
 ## **4. Publico Objetivo.**
 ![Abogabot-Objetivo](./images/Abogabot-Obj.jpg)
+
+## **5. Wireframe.**
