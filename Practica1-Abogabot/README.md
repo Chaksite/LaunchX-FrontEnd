@@ -58,4 +58,6 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 
 ![SignIn-UI](./images/SignIn-UI.jpg)
 
+![Dashboard-UI](./images/Dashboard-UI.jpg)
+
 **En Construccion...**
