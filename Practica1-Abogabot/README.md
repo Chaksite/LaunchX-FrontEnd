@@ -49,7 +49,8 @@ Dentro de los parametros que el cliente solicita, se identifican los siguientes 
 ![Abogabot-Objetivo](./images/Abogabot-Obj.jpg)
 
 ## **5. Wireframe UX.**
-![Abogabot-WF](./images/Abogabot-WF.jpg)
+![Abogabot-Wire](./images/Abogabot-Wire.jpg)
 
 ## **5. UI.**
+![Home-UI](./images/Home-UI.jpg)
 **En Construccion...**
