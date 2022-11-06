@@ -1,5 +1,4 @@
-# LaunchX-Abogabot
-LaunchX - Practica 1.
+# LaunchX Practica 1-Abogabot
 
 ## **1. Toma de Requerimientos.**
 
